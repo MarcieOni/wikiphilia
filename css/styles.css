@@ -1,0 +1,10 @@
+.navbar-brand {
+    font-size: 36px;
+}
+
+
+@media screen and (max-width: 992px) {
+    .bar-things, .navbar-nav {
+        display: none!important;
+    }
+}
