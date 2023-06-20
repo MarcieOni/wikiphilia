@@ -2,6 +2,43 @@
     font-size: 36px;
 }
 
+.row {
+    box-sizing: content-box;
+    width: 100%;
+}
+
+.container {
+    border: 1px solid #aaa;
+    padding: 0 0.5em 0.5em;
+    margin-top: 4px;
+    color: ;
+    text-align: center;
+    background: #f9f9f9;
+    border-color: #ddd;
+}
+
+.mp-h2 {
+    border: 1px solid #aaa;
+    margin: 0.5em 0;
+    padding: 0.2em 0.4em;
+    font-size: 120%;
+    font-weight: bold;
+    background: #cef2e0;
+    border-color: #a3bfb1;
+    text-align: center;
+}
+
+.h2-mp {
+    border: 1px solid #aaa;
+    margin: 0.5em 0;
+    padding: 0.2em 0.4em;
+    font-size: 120%;
+    font-weight: bold;
+    border-color: #a3bfb1;
+    text-align: center;
+    background: #cedff2;
+    border-color: #a3b0bf;
+}
 
 @media screen and (max-width: 992px) {
     .bar-things, .navbar-nav {
